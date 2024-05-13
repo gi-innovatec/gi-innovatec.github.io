@@ -1,0 +1,32 @@
+- name: Enrique Guitérrez
+  photo: no-user.jpg
+  info: Profesor Permanente Laboral
+  email: X
+  number_educ: 5
+  education1: X
+  education2: X
+  education3: X
+  education4: X
+  education5: X
+
+- name: Carlos Quesada
+  photo: no-user.jpg
+  info: Profesor Permanente Laboral
+  email: X
+  number_educ: 5
+  education1: X
+  education2: X
+  education3: X
+  education4: X
+  education5: X
+
+- name: María Navas Loro
+  photo: mnavas.jpg
+  info: Profesor Ayudante Doctor
+  email: m.navas(at)upm.es
+  number_educ: 5
+  education1: X
+  education2: X
+  education3: X
+  education4: X
+  education5: X
