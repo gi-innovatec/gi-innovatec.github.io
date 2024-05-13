@@ -1,5 +1,5 @@
 - name: Enrique Guitérrez
-  photo: no-user.jpg
+  photo: no-user.png
   info: Profesor Permanente Laboral
   email: X
   number_educ: 5
@@ -10,7 +10,7 @@
   education5: X
 
 - name: Carlos Quesada
-  photo: no-user.jpg
+  photo: no-user.png
   info: Profesor Permanente Laboral
   email: X
   number_educ: 5
@@ -22,11 +22,11 @@
 
 - name: María Navas Loro
   photo: mnavas.jpg
-  info: Profesor Ayudante Doctor
+  info: PhD, Profesor Ayudante Doctor, Dpto. Sistemas Informáticos
   email: m.navas(at)upm.es
-  number_educ: 5
-  education1: X
-  education2: X
-  education3: X
-  education4: X
-  education5: X
+  number_educ: 4
+  education1: PhD in Artificial Intelligente (UPM)
+  education2: MSc Artificial Intelligence (UPM), MIng Mathematiques Apliquées et Calcul Scientifique (Univ. Paris Nord)
+  education3: BSc Mathematics, Computer Science (UAM)
+  education4: "Topics: Natural Language Processing · Legal domain · Language related diseases"
+  #education5: X
