@@ -10,8 +10,8 @@ title: Nebula Research Group
 email: nebula.upm@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Nebula Research Group.
-baseurl: "/nebula-upm.github.io"
-url: http://nebula-upm.github.io
+baseurl: "nebula-upm.github.io"
+url: http://nebula-upm.github.io/
 
 include:
   - .htaccess
