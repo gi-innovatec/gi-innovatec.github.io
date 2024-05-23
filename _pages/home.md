@@ -38,7 +38,7 @@ More details to follow.-->
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
+        </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
         </div-->
@@ -53,7 +53,7 @@ More details to follow.-->
   </a>
 </div>
 
-NEBULA (Neurology and Brain Understanding through Learning Algorithms) represents a novel research group blending mathematics and Natural Language Processing (NLP) to pioneer groundbreaking strategies for neurological disorders. Dedicated to harnessing the potential of mathematical modeling and state-of-the-art AI techniques, our team is focused on tackling the intricacies of neurological conditions. Through this interdisciplinary synergy, our goal is to devise inventive methods for comprehending, diagnosing, and treating ailments like Alzheimer's disease, Psychosis, Aphasia, among others. Embracing a multidisciplinary ethos, we are driven to expand the frontiers of scientific exploration, fostering significant progress in enhancing the well-being of individuals grappling with these complex disorders.
+**NEBULA** (Neurology and Brain Understanding through Learning Algorithms) represents a novel research group blending mathematics and Natural Language Processing (NLP) to pioneer groundbreaking strategies for **neurological disorders**. Dedicated to harnessing the potential of mathematical modeling and state-of-the-art **AI techniques**, our team is focused on tackling the intricacies of neurological conditions. Through this interdisciplinary synergy, our goal is to devise inventive methods for comprehending, diagnosing, and treating ailments like **Alzheimer's disease, Psychosis, Aphasia**, among others. Embracing a multidisciplinary ethos, we are driven to expand the frontiers of scientific exploration, fostering significant progress in enhancing the well-being of individuals grappling with these complex disorders.
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
