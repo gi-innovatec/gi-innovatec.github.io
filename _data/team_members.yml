@@ -1,24 +1,20 @@
-- name: Enrique Guitérrez
-  photo: no-user.png
-  info: Profesor Permanente Laboral
-  email: X
-  number_educ: 5
-  education1: X
-  education2: X
-  education3: X
-  education4: X
-  education5: X
+- name: Enrique Gutiérrez
+  photo: kike_squared.png
+  info: PhD, Associate profesor, MATICS (ETSISI)
+  email: enrique.gutierrez.alvarez(at)upm.es
+  number_educ: 3
+  education1: PhD in Computer Science
+  education2: BSc Aerospace Engineer, (UPM)
+  education3: "Topics: Psychosis, Algorithm Design, Optimization, Machine Learning"
 
 - name: Carlos Quesada
-  photo: no-user.png
-  info: Profesor Permanente Laboral
-  email: X
-  number_educ: 5
-  education1: X
-  education2: X
-  education3: X
-  education4: X
-  education5: X
+  photo: carlos.jpeg
+  info:  PhD, Associate profesor, MATICS (ETSISI)
+  email: carlos.quesada(at)upm.es
+  number_educ: 3
+  education1: PhD in Mathematics
+  education2: BSc Mathematics (UAM)
+  education3: "Topics: Alzheimer, Mathematical Modelling, Optimization, Machine Learning"
 
 - name: María Navas Loro
   photo: mnavas.jpg
