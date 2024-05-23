@@ -1,18 +1,18 @@
-- name: Enrique Gutiérrez
+- name: Enrique Gutiérrez Álvarez
   photo: kike_squared.png
-  info: PhD, Associate profesor, MATICS (ETSISI)
+  info: PhD, Associate profesor, Dpto. MATIC (ETSISI)
   email: enrique.gutierrez.alvarez(at)upm.es
   number_educ: 3
   education1: PhD in Computer Science
   education2: BSc Aerospace Engineer, (UPM)
   education3: "Topics: Psychosis, Algorithm Design, Optimization, Machine Learning"
 
-- name: Carlos Quesada
+- name: Carlos Quesada González
   photo: carlos.jpeg
-  info:  PhD, Associate profesor, MATICS (ETSISI)
+  info:  PhD, Associate profesor, Dpto. MATIC (ETSISI)
   email: carlos.quesada(at)upm.es
   number_educ: 3
-  education1: PhD in Mathematics
+  education1: PhD in Mathematics (UCM)
   education2: BSc Mathematics (UAM)
   education3: "Topics: Alzheimer, Mathematical Modelling, Optimization, Machine Learning"
 
