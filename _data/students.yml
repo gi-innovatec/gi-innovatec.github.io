@@ -1,20 +1,15 @@
-- name: Estudiante 1
-  photo: no-user.png
+- name: Jose María Vera
+  photo: chema_squared.png
   info: BSc Student
-  email: st1@alumnos.upm.es
-  number_educ: 2
-  education1: Bsc Software Engineer
-  education2: "Thesis: Topic 1"
+  email: josemaria.vera(at)alumnos.upm.es
+  number_educ: 1
+  education1: Bsc Data Science Engineer
 #  education3:
 #  education4:
 
-- name: Estudiante 2
-  photo: no-user.png
+- name: Pablo Cano
+  photo: pablo_squared.png
   info: MSc Student
-  email: st2@alumnos.upm.es
-  number_educ: 3
-  education1: Msc Data Science
-  education2: Bsc Mathematics
-  education3: "Thesis: Topic 2"
-
-
+  email: pablo.cano.ortiz(at)alumnos.upm.es
+  number_educ: 1
+  education1: Bsc Data Science Engineer

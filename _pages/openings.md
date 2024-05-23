@@ -8,13 +8,14 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**We are currently open for PhD and postdoc applications related to our research topics. We are looking forward to work in:**
+ - **Computational approaches to study mental conditions.**
+ - **Algorithm design in neurology.**
+ - **Data science & and Machine learning applied to the health sector**
 
-We are  looking for new group members with passion, talent, and grit!
+We are looking for new group members with passion, talent, and grit!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
-
-### Past open positions
+You will have the chance to work on the grand challenges of applied mathematics. You will be involved in determining the important and interesting questions, creating and improving computational setups, developing models, and making discoveries.
 
 <!--You find the past job openings here:
 [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
