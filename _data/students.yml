@@ -9,7 +9,14 @@
 
 - name: Pablo Cano
   photo: pablo_squared.png
-  info: MSc Student
+  info: BSc Student
   email: pablo.cano.ortiz(at)alumnos.upm.es
+  number_educ: 1
+  education1: Bsc Data Science Engineer
+
+- name: Yingying Zhu
+  photo: yingying.jpeg
+  info: BSc Student
+  email: yingying.zhu(at)alumnos.upm.es
   number_educ: 1
   education1: Bsc Data Science Engineer
