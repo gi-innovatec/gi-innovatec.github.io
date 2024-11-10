@@ -1,28 +1,29 @@
-- name: Enrique Gutiérrez Álvarez
-  photo: kike_squared.png
-  info: PhD, Associate profesor, Dpto. MATIC (ETSISI)
-  email: enrique.gutierrez.alvarez(at)upm.es
+- name: Jessica Díaz Fernández
+  photo: jessica_squared.png
+  info: PhD, Associate profesor (Titular Universidad), Dpto. Sistemas Informáticos (ETSISI)
+  email: yesica.diaz(at)upm.es
   number_educ: 3
-  education1: PhD in Computer Science
-  education2: BSc Aerospace Engineer, (UPM)
-  education3: "Topics: Psychosis, Algorithm Design, Optimization, Machine Learning"
+  education1: PhD in Computer Science (UPM)
+  education2: MsC in Computer Science (UPM)
+  education3: BSc Software Engineering (UPM)
+  education4: "Topics: "
 
-- name: Carlos Quesada González
+- name: Jorge E. Pérez Martínez
   photo: carlos_squared.jpeg
-  info:  PhD, Associate profesor, Dpto. MATIC (ETSISI)
-  email: carlos.quesada(at)upm.es
+  info:  PhD, Associate profesor (Titular Universidad), Dpto. Sistemas Informáticos (ETSISI)
+  email: jorgeenrique.perez(at)upm.es
   number_educ: 3
-  education1: PhD in Mathematics (UCM)
-  education2: BSc Mathematics (UAM)
-  education3: "Topics: Alzheimer, Mathematical Modelling, Optimization, Machine Learning"
+  education1: PhD in Computer Science (UPM)
+  education2: BSc Computer Engineering (UPM)
+  education3: "Topics: "
 
-- name: María Navas Loro
+- name: Daniel López
   photo: mnavas.jpg
-  info: PhD, Profesor Ayudante Doctor, Dpto. Sistemas Informáticos
-  email: m.navas(at)upm.es
+  info: PhD, Associate profesor (Contratado Doctor), Dpto. Sistemas Informáticos (ETSISI)
+  email: daniel.lopez(at)upm.es
   number_educ: 4
-  education1: PhD in Artificial Intelligente (UPM)
-  education2: MSc Artificial Intelligence (UPM), MIng Mathematiques Apliquées et Calcul Scientifique (Univ. Paris Nord)
-  education3: BSc Mathematics, Computer Science (UAM)
-  education4: "Topics: Natural Language Processing · Legal domain · Language related diseases"
+  education1: PhD in Computer Science (UPM)
+  education2: MSc 
+  education3: BSc Software Engineering (UPM)
+  education4: "Topics: "
   #education5: X
