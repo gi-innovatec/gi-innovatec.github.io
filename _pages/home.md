@@ -1,7 +1,7 @@
 ---
-title: "Nebula Research Group - Research"
+title: "INNVOATEC Research Group - Research"
 layout: textlay
-excerpt: "Nebula -- Research"
+excerpt: "INNVOATEC -- Research"
 sitemap: false
 permalink: /
 ---
@@ -53,15 +53,15 @@ More details to follow.-->
   </a>
 </div>
 
-**NEBULA** (Neurology and Brain Understanding through Learning Algorithms) is a novel research group blending mathematics and Natural Language Processing (NLP) to pioneer groundbreaking strategies for **neurological disorders**. Dedicated to harnessing the potential of mathematical modeling and state-of-the-art **AI techniques**, our team is focused on tackling the intricacies of neurological conditions. Through this interdisciplinary synergy, our goal is to devise inventive methods for comprehending, diagnosing, and treating ailments like **Alzheimer's disease, Psychosis, Aphasia, Sleep Disturbances**, among others. Embracing a multidisciplinary ethos, we are driven to expand the frontiers of scientific exploration, fostering significant progress in enhancing the well-being of individuals grappling with these complex disorders.
+**INNVOATEC** () is a novel research group 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ <!--**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**-->
 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UPM.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ETSISI.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nebula_transp1.jpg" style="width: 120px; padding:10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_INNOVATEC_transp1.jpg" style="width: 120px; padding:10px">
   <!--img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"-->
 </figure>
 
