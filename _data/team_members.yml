@@ -1,5 +1,5 @@
 - name: Jessica Díaz Fernández
-  photo: jessica_squared.png
+  photo: jessica_squared.jpg
   info: PhD, Associate profesor (Titular Universidad), Dpto. Sistemas Informáticos (ETSISI)
   email: yesica.diaz(at)upm.es
   number_educ: 3
@@ -9,7 +9,7 @@
   education4: "Topics: "
 
 - name: Jorge E. Pérez Martínez
-  photo: carlos_squared.jpeg
+  photo: bio-photo.jpg
   info:  PhD, Associate profesor (Titular Universidad), Dpto. Sistemas Informáticos (ETSISI)
   email: jorgeenrique.perez(at)upm.es
   number_educ: 3
@@ -18,7 +18,7 @@
   education3: "Topics: "
 
 - name: Daniel López
-  photo: mnavas.jpg
+  photo: bio-photo.jpg
   info: PhD, Associate profesor (Contratado Doctor), Dpto. Sistemas Informáticos (ETSISI)
   email: daniel.lopez(at)upm.es
   number_educ: 4
