@@ -23,11 +23,11 @@ More details to follow.-->
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
+  <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/diapo1.png" alt="Slide 1" />
         </div>
-      <!--
+      <!---
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/nerve-cells-2213009.jpg" alt="Slide 2" />
         </div>
@@ -42,8 +42,8 @@ More details to follow.-->
         </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
-        </div>-->
-    </div>
+        </div>--->
+  </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -54,7 +54,14 @@ More details to follow.-->
   </a>
 </div>
 
-**INNOVATEC** () is a novel research group 
+<p>INNOVATEC (**In**vestigación en I**n**geniería **O**perativa, **V**ideojuegos y **A**plicaciones
+          **Tec**nológicas - Research in Operational Engineering, Video Games, and Technological Applications) is a new
+          research group that combines:
+
+          - Software Engineering, Computer Graphics, Video Games, and Educational Technologies
+
+          - Qualitative, Operational, and Metaheuristic Research
+</p>
 
  <!--**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**-->
 
