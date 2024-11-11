@@ -1,7 +1,7 @@
 ---
-title: "Nebula Research Group - Research"
+title: "INNOVATEC Research Group - Research"
 layout: textlay
-excerpt: "Nebula -- Research"
+excerpt: "INNOVATEC -- Research"
 sitemap: false
 permalink: /instrumente.html
 ---

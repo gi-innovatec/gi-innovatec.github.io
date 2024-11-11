@@ -61,7 +61,7 @@ More details to follow.-->
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UPM.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ETSISI.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_INNOVATEC_transp1.jpg" style="width: 120px; padding:10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logoinnovatec.png" style="width: 120px; padding:10px">
   <!--img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px"-->
 </figure>
 

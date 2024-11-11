@@ -1,7 +1,7 @@
 ---
-title: "Nebula Research Group - Research"
+title: "INNOVATEC Research Group - Research"
 layout: textlay
-excerpt: "Nebula -- Research"
+excerpt: "INNOVATEC -- Research"
 sitemap: false
 permalink: /publications/
 ---
@@ -49,7 +49,7 @@ The time-window strategy in the online order batching problem. Int. J. Prod. Res
 - Eduardo G. Pardo , Sergio Gil-Borrás , Antonio Alonso-Ayuso, Abraham Duarte :
 Order batching problems: Taxonomy and literature review. Eur. J. Oper. Res. 313(1): 1-24 https://doi.org/10.1016/j.ejor.2023.02.019  ISSN 0377-2217 JCR 2023: 6 (OPERATIONS RESEARCH & MANAGEMENT SCIENCE Q1 14/106)
 
--Jessica Díaz , Jorge Pérez , Carolina Gallardo , Ángel González-Prieto :
+- Jessica Díaz , Jorge Pérez , Carolina Gallardo , Ángel González-Prieto :
 Applying Inter-Rater Reliability and Agreement in collaborative Grounded Theory studies in software engineering. J. Syst. Softw. 195: 111520 (2023) JCR 2022: 3.5 (COMPUTER SCIENCE, THEORY & METHODS Q2   34/111)
 
 - Ángel González-Prieto , Jorge Pérez , Jessica Díaz , Daniel López-Fernández :

@@ -1,21 +1,59 @@
 ---
-title: "Nebula Research Group - Research"
+title: "INNOVATEC Research Group - Research"
 layout: textlay
-excerpt: "Nebula -- Research"
+excerpt: "INNOVATEC -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-NEBULA (Neurology and Brain Understanding through Learning Algorithms) is a brand new research gruop that combines the power of mathematics and artificial intelligence (AI) to pioneer transformative solutions for neurological disorders. Our team is committed to leveraging the power of mathematical modeling and cutting-edge AI technologies to address the complexities of neurological disorders. By integrating these disciplines, we aim to develop innovative approaches for understanding, diagnosing, and treating conditions such as Alzheimer's disease, Parkinson's disease, and others. With a multidisciplinary approach, we strive to push the boundaries of scientific discovery and make meaningful advancements in improving the lives of individuals affected by these challenging conditions. 
+INNOVATEC (**In**vestigación en I**n**geniería **O**perativa, **V**ideojuegos y **A**plicaciones **Tec**nológicas - Research in Operational Engineering, Video Games, and Technological Applications) is a new research group that combines:
 
-Our overarching goal is to explore how mathematical algorithms and natural language techniques can be applied to different mental diseases. Here are some diseases we currently work on:
+- Software Engineering, Computer Graphics, Video Games, and Educational Technologies
 
-**Aphasia** Aphasia refers to a language disorder typically caused by brain injury or damage, often resulting from stroke, or the gradual loss of language abilities (Primary Progressive Aphasia, PPA). Individuals with aphasia may have difficulty speaking, understanding speech, reading, and writing. The severity and specific symptoms of aphasia can vary widely depending on the location and extent of brain damage. Treatment often involves speech therapy aimed at improving communication skills and strategies for coping with language difficulties. Our aim is to help both in the detection and the therapy of the disease, using different Natural Language Techniques to automate part of the tasks in order to help therapists and clinicians in their labour.
+- Qualitative, Operational, and Metaheuristic Research
 
-**Psychosis** Psychosis is a mental state characterized by a disconnection from reality, often marked by hallucinations, delusions, disorganized thinking, and impaired insight. It is not a specific mental disease in itself but can be a symptom of various psychiatric disorders, including schizophrenia, bipolar disorder, severe depression with psychotic features, and certain neurological conditions. Hallucinations involve perceiving things that are not present, while delusions are false beliefs held despite evidence to the contrary. Disorganized thinking can manifest as incoherent speech or difficulty organizing thoughts. Impaired insight may lead individuals to not recognize their altered perception of reality. Treatment typically involves a combination of antipsychotic medication, psychotherapy, and support services to manage symptoms and improve functioning. Early intervention and ongoing care are essential for effective management of psychosis and its associated conditions. Different Natural Language Techiques can help enhance identification in the early stage.
 
-**Alzheimer** Alzheimer's disease is a progressive neurodegenerative disorder that primarily affects memory, thinking skills, and behavior, gradually impairing an individual's ability to function independently. While it primarily impacts memory, Alzheimer's can also affect language abilities as the disease progresses. Individuals may experience difficulty finding the right words, understanding spoken or written language, and following conversations. As Alzheimer's advances, communication becomes increasingly challenging, leading to problems with expressing oneself and understanding others. Treatment for Alzheimer's focuses on managing symptoms, preserving cognitive function, and enhancing quality of life through medication, cognitive stimulation, and supportive interventions. However, there is currently no cure for Alzheimer's disease, highlighting the importance of early diagnosis and ongoing support for affected individuals and their families. Our research works towards improving both diagnosis and therapy.
+Our research focuses on the design, development, and evaluation of advanced software systems (e.g. Cloud IoT-Edge based solutions), interactive technologies, and educational tools. We innovate in game development, and educational technology, creating solutions that enhance user experience and learning through interactive and challenge-based methods. We also explore DevOps culture, agile software engineering practices and advanced computer graphics to improve application quality and usability.
+
+We study optimization and decision-making for complex technological applications. Our research includes operational modeling and simulation for resource management and planning efficiency. Additionally, we develop metaheuristic algorithms, such as genetic algorithms and swarm optimization, to solve complex problems in diverse fields.
+
+Our research in software engineering focuses on advancing qualitative methods, particularly grounded theory (GT) and theory building, to develop deep insights into software practices and processes.
+
+
+
+**Investigación en Ingeniería de Software, Computación Gráfica, Videojuegos y Tecnologías Educativas** 
+
+<!---Nuestra investigación en esta área se centra en el diseño, desarrollo y evaluación de sistemas y aplicaciones que integran ingeniería de software avanzada, gráficos por computadora, y tecnologías interactivas. Buscamos innovar en el ámbito de los videojuegos y las tecnologías educativas, creando soluciones que no solo optimicen el rendimiento y la calidad del software, sino que también mejoren la experiencia de usuario y el aprendizaje interactivo.-->
+
+Our research in this area focuses on the design, development and evaluation of systems and applications that integrate advanced software engineering, computer graphics, and interactive technologies. We seek to innovate in the field of video games and educational technologies, creating solutions that not only optimize software performance and quality, but also improve user experience and interactive learning.
+
+
+<!---En computación gráfica, exploramos tanto la creación de entornos visuales avanzados como la simulación de escenarios virtuales, que se aplican directamente en la industria del videojuego. Nuestro equipo también investiga el uso de los videojuegos como herramientas educativas, desarrollando y evaluando plataformas que faciliten el aprendizaje basado en retos, la gamificación y la formación inmersiva. Nos apasiona el potencial de la tecnología para transformar la educación y buscamos integrar soluciones que promuevan una enseñanza activa y significativa. -->
+
+In computer graphics, we explore both the creation of advanced visual environments and the simulation of virtual scenarios, which are directly applied to the video game industry. Our team also researches the use of video games as educational tools, developing and evaluating platforms that facilitate challenge-based learning, gamification and immersive training. We are passionate about the potential of technology to transform education and seek to integrate solutions that promote active and meaningful learning.
+
+<!---Este enfoque multidisciplinario nos permite impulsar aplicaciones innovadoras que impacten en sectores como el entretenimiento, la educación, y el desarrollo de software a través de métodos de aprendizaje e interacción digitales avanzados.--->
+
+This multidisciplinary approach allows us to drive innovative applications that impact sectors such as entertainment, education, and software development through advanced digital learning and interaction methods.
+
+**Investigación cualitativa, operativa y metaheurísticas** 
+
+Our research in software engineering focuses on advancing qualitative methods, particularly grounded theory (GT), to develop deep insights into software practices and processes. To address this, we established our own GT process, drawing on established GT methodologies: Classic or Glaserian, Straussian, and Constructivist. We have published tutorials explaining how to calculate inter-coder agreement (IRA), offering structured guidance for researchers. Currently, we are focused on theory building, exploring processes to develop, operationalize, and test theories that contribute to the advancement of software engineering as a discipline.
+
+Operations research focuses on process optimization and problem solving in industrial and technological contexts. We rely on modeling and simulation methods to optimize resource management, task planning and logistics, ensuring efficiency and performance in complex systems. Our research in this area encompasses the in-depth study of optimization methods and complex decision making in diverse application areas. We focus on developing models and algorithms that address large-scale, highly complex problems where traditional solutions may not be effective. 
+
+Finally, in the area of metaheuristics, we develop and apply advanced optimization algorithms to solve complex search problems in various areas such as planning, network design and artificial intelligence. These methods, such as genetic algorithms, particle swarm optimization and other nature-inspired algorithms, allow us to find near-optimal solutions in large, multi-constrained search spaces.
+
+Our multidisciplinary approach in qualitative, operational and metaheuristic research drives innovative and effective solutions to complex challenges in different fields, supporting both industry and applied research.
+
+<!---Nuestra investigación en esta área abarca el estudio profundo de métodos de optimización y toma de decisiones complejas en diversas áreas de aplicación. Nos enfocamos en desarrollar modelos y algoritmos que aborden problemas de gran escala y alta complejidad, donde las soluciones tradicionales pueden no ser efectivas.
+
+La investigación operativa se enfoca en la optimización de procesos y la resolución de problemas en contextos industriales y tecnológicos. Nos apoyamos en métodos de modelado y simulación para optimizar la gestión de recursos, la planificación de tareas y la logística, asegurando la eficiencia y el rendimiento en sistemas complejos.
+
+Por último, en el área de metaheurísticas, desarrollamos y aplicamos algoritmos avanzados de optimización que permiten resolver problemas de búsqueda complejos en diversas áreas, como la planificación, el diseño de redes y la inteligencia artificial. Estos métodos, como algoritmos genéticos, optimización de enjambre de partículas y otros algoritmos inspirados en la naturaleza, nos permiten encontrar soluciones cercanas al óptimo en espacios de búsqueda amplios y con restricciones múltiples.
+
+Nuestro enfoque multidisciplinario en investigación cualitativa, operativa y en metaheurísticas impulsa soluciones innovadoras y efectivas para desafíos complejos en diferentes campos, apoyando tanto a la industria como a la investigación aplicada.--->
 
 ### ... and more.
