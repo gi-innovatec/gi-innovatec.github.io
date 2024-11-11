@@ -28,9 +28,9 @@
   education4: "Topics: "
 
 - name: Jesús Mayor
-  photo: jessica_squared.jpg
-  info: PhD, Associate profesor (Titular Universidad), Dpto. Sistemas Informáticos (ETSISI)
-  email: yesica.diaz(at)upm.es
+  photo: jesus.jpg
+  info: PhD, Associate profesor (Profesor Permanente Laboral), Dpto. Sistemas Informáticos (ETSISI)
+  email: jesus.mayor(at)upm.es
   number_educ: 4
   education1: PhD in Computer Science (UPM)
   education2: MsC in Computer Science (UPM)
@@ -38,9 +38,9 @@
   education4: "Topics: "
 
 - name: Sergio Gil
-  photo: bio-photo.jpg
+  photo: sergio.jpg
   info:  PhD, Associate profesor (Titular Universidad), Dpto. Sistemas Informáticos (ETSISI)
-  email: jorgeenrique.perez(at)upm.es
+  email: sergio.gil(at)upm.es
   number_educ: 5
   education1: PhD in Computer Science (UPM)
   education2: BSc Computer Engineering (UPM)
@@ -49,7 +49,7 @@
 - name: Javier Alegre
   photo: bio-photo.jpg
   info: PhD, Associate profesor (Contratado Doctor), Dpto. Sistemas Informáticos (ETSISI)
-  email: daniel.lopez(at)upm.es
+  email: javier.alegre(at)upm.es
   number_educ: 5
   education1: PhD in Computer Science (UPM)
   education2: MSc 
