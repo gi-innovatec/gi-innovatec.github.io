@@ -1,7 +1,7 @@
 ---
-title: "INNVOATEC Research Group - Research"
+title: "INNOVATEC Research Group - Research"
 layout: textlay
-excerpt: "INNVOATEC -- Research"
+excerpt: "INNOVATEC -- Research"
 sitemap: false
 permalink: /
 ---
@@ -54,7 +54,7 @@ More details to follow.-->
   </a>
 </div>
 
-**INNVOATEC** () is a novel research group 
+**INNOVATEC** () is a novel research group 
 
  <!--**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**-->
 
