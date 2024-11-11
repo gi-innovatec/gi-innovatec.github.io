@@ -26,4 +26,34 @@
   education2: MSc 
   education3: BSc Software Engineering (UPM)
   education4: "Topics: "
-  #education5: X
+
+- name: Jesús Mayor
+  photo: jessica_squared.jpg
+  info: PhD, Associate profesor (Titular Universidad), Dpto. Sistemas Informáticos (ETSISI)
+  email: yesica.diaz(at)upm.es
+  number_educ: 4
+  education1: PhD in Computer Science (UPM)
+  education2: MsC in Computer Science (UPM)
+  education3: BSc Software Engineering (UPM)
+  education4: "Topics: "
+
+- name: Sergio Gil
+  photo: bio-photo.jpg
+  info:  PhD, Associate profesor (Titular Universidad), Dpto. Sistemas Informáticos (ETSISI)
+  email: jorgeenrique.perez(at)upm.es
+  number_educ: 5
+  education1: PhD in Computer Science (UPM)
+  education2: BSc Computer Engineering (UPM)
+  education3: "Topics: "
+
+- name: Javier Alegre
+  photo: bio-photo.jpg
+  info: PhD, Associate profesor (Contratado Doctor), Dpto. Sistemas Informáticos (ETSISI)
+  email: daniel.lopez(at)upm.es
+  number_educ: 5
+  education1: PhD in Computer Science (UPM)
+  education2: MSc 
+  education3: BSc Software Engineering (UPM)
+  education4: "Topics: "
+
+
