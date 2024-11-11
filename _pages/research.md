@@ -23,7 +23,8 @@ Our research in software engineering focuses on advancing qualitative methods, p
 
 
 
-**Investigación en Ingeniería de Software, Computación Gráfica, Videojuegos y Tecnologías Educativas** 
+<!---**Investigación en Ingeniería de Software, Computación Gráfica, Videojuegos y Tecnologías Educativas** --->
+**Research in Software Engineering, Computer Graphics, Videogames and Educational Technologies**
 
 <!---Nuestra investigación en esta área se centra en el diseño, desarrollo y evaluación de sistemas y aplicaciones que integran ingeniería de software avanzada, gráficos por computadora, y tecnologías interactivas. Buscamos innovar en el ámbito de los videojuegos y las tecnologías educativas, creando soluciones que no solo optimicen el rendimiento y la calidad del software, sino que también mejoren la experiencia de usuario y el aprendizaje interactivo.-->
 
@@ -38,7 +39,8 @@ In computer graphics, we explore both the creation of advanced visual environmen
 
 This multidisciplinary approach allows us to drive innovative applications that impact sectors such as entertainment, education, and software development through advanced digital learning and interaction methods.
 
-**Investigación cualitativa, operativa y metaheurísticas** 
+<!---**Investigación cualitativa, operativa y metaheurísticas** --->
+**Qualitative, operational and metaheuristic research**
 
 Our research in software engineering focuses on advancing qualitative methods, particularly grounded theory (GT), to develop deep insights into software practices and processes. To address this, we established our own GT process, drawing on established GT methodologies: Classic or Glaserian, Straussian, and Constructivist. We have published tutorials explaining how to calculate inter-coder agreement (IRA), offering structured guidance for researchers. Currently, we are focused on theory building, exploring processes to develop, operationalize, and test theories that contribute to the advancement of software engineering as a discipline.
 

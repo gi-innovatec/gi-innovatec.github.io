@@ -22,7 +22,7 @@ More details to follow.-->
         <li data-target="#carousel" data-slide-to="6"></li-->
     </ol>
 
-    <!-- Items -->
+  <!-- Items -->
   <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/diapo1.png" alt="Slide 1" />
@@ -54,14 +54,12 @@ More details to follow.-->
   </a>
 </div>
 
-<p>INNOVATEC (**In**vestigación en I**n**geniería **O**perativa, **V**ideojuegos y **A**plicaciones
-          **Tec**nológicas - Research in Operational Engineering, Video Games, and Technological Applications) is a new
-          research group that combines:
+INNOVATEC (**In**vestigación en I**n**geniería **O**perativa, **V**ideojuegos y **A**plicaciones **Tec**nológicas - Research in Operational Engineering, Video Games, and Technological Applications) is a new research group that combines:
 
-          - Software Engineering, Computer Graphics, Video Games, and Educational Technologies
+- Software Engineering, Computer Graphics, Video Games, and Educational Technologies
 
-          - Qualitative, Operational, and Metaheuristic Research
-</p>
+- Qualitative, Operational, and Metaheuristic Research
+
 
  <!--**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**-->
 
