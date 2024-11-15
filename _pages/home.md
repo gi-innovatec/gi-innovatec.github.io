@@ -61,6 +61,7 @@ INNOVATEC (**In**vestigación en I**n**geniería **O**perativa, **V**ideojuegos 
 - Qualitative, Operational, and Metaheuristic Research
 
 
+
  <!--**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**-->
 
 
