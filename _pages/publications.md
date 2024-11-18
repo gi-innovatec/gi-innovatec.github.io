@@ -27,10 +27,10 @@ Are Educational Escape Rooms More Effective Than Traditional Lectures for Teachi
 Long short-term memory prediction of user's locomotion in virtual reality. Virtual Real. 28(1): 65 (2024)
 
 - Eduardo G. Pardo, Sergio Gil-Borrás, Antonio Alonso-Ayuso, Abraham Duarte :
-Order batching problems: Taxonomy and literature review. Eur. J. Oper. Res. 313(1): 1-24 https://doi.org/10.1016/j.ejor.2023.02.019 ISSN 0377-2217 JCR 2023: 6 (OPERATIONS RESEARCH & MANAGEMENT SCIENCE Q1 14/106)
+Order batching problems: Taxonomy and literature review. European Journal Operation Research 313(1): 1-24 <a href="https://doi.org/10.1016/j.ejor.2023.02.019">https://doi.org/10.1016/j.ejor.2023.02.019</a> ISSN 0377-2217 JCR 2023: 6 (OPERATIONS RESEARCH & MANAGEMENT SCIENCE Q1 14/106)
 
 - Sergio Gil-Borrás, Eduardo G. Pardo, Ernesto Jiménez, Kenneth Sörensen:
-The time-window strategy in the online order batching problem. Int. J. Prod. Res. 62(12): 4446-4469 https://doi.org/10.1080/00207543.2023.2263884 ISSN 0020-7543 JCR 2023: 7 (ENGINEERING, INDUSTRIAL Q1 10/69)
+The time-window strategy in the online order batching problem. Int. J. Prod. Res. 62(12): 4446-4469 <a href="https://doi.org/10.1080/00207543.2023.2263884">https://doi.org/10.1080/00207543.2023.2263884</a> ISSN 0020-7543 JCR 2023: 7 (ENGINEERING, INDUSTRIAL Q1 10/69)
 
 
 ## 2023
@@ -105,7 +105,7 @@ Comparing Traditional Teaching and Game-Based Learning Using Teacher-Authored Ga
 - Jesús Mayor, Laura Raya, Alberto Sánchez:
 A Comparative Study of Virtual Reality Methods of Interaction and Locomotion Based on Presence, Cybersickness, and Usability. IEEE Trans. Emerg. Top. Comput. 9(3): 1542-1553 (2021)
 
-- Sergio Gil-Borrás, Eduardo G. Pardo,  Antonio Alonso-Ayuso, Abraham Duarte (2021). A heuristic approach for the online order batching problem with multiple pickers. Computers & Industrial Engineering, 160 (p. 107517) (2021). https://doi.org/10.1016/j.cie.2021.107517
+- Sergio Gil-Borrás, Eduardo G. Pardo,  Antonio Alonso-Ayuso, Abraham Duarte (2021). A heuristic approach for the online order batching problem with multiple pickers. Computers & Industrial Engineering, 160 (p. 107517) (2021). <a href="https://doi.org/10.1016/j.cie.2021.107517">https://doi.org/10.1016/j.cie.2021.107517</a>
 
 ## 2020 
 
@@ -127,11 +127,11 @@ Entornos parcialmente no euclidianos en realidad virtual(Partially non-Euclidean
 - Daniel Guamán, Jennifer Pérez, Jessica Díaz, Carlos E. Cuesta:
 Towards a reference process for software architecture reconstruction. IET Softw. 14(6): 592-606 (2020)
 
-- Sergio Gil-Borrás, Eduardo G. Pardo,  Antonio Alonso-Ayuso, Abraham Duarte (2020) GRASP with Variable Neighborhood Descent for the online order batching problem. Journal of Global Optimization, 78, 295–325 (2020). https://doi.org/10.1007/s10898-020-00910-2
+- Sergio Gil-Borrás, Eduardo G. Pardo,  Antonio Alonso-Ayuso, Abraham Duarte (2020) GRASP with Variable Neighborhood Descent for the online order batching problem. Journal of Global Optimization, 78, 295–325 (2020). <a href="https://doi.org/10.1007/s10898-020-00910-2">https://doi.org/10.1007/s10898-020-00910-2</a>
 
-- Sergio Gil-Borrás, Eduardo G. Pardo,  Antonio Alonso-Ayuso, Abraham Duarte (2020) Fixed versus variable time window warehousing strategies in real time. Progress in Artificial Intelligence 1-10 (2020). https://doi.org/10.1007/s13748-020-00215-1
+- Sergio Gil-Borrás, Eduardo G. Pardo,  Antonio Alonso-Ayuso, Abraham Duarte (2020) Fixed versus variable time window warehousing strategies in real time. Progress in Artificial Intelligence 1-10 (2020). <a href="https://doi.org/10.1007/s13748-020-00215-1">https://doi.org/10.1007/s13748-020-00215-1</a>
 
-- Sergio Gil-Borrás, Eduardo G. Pardo,  Antonio Alonso-Ayuso, Abraham Duarte (2020) Basic VNS for a Variant of the Online Order Batching Problem. In: Benmansour R., Sifaleras A., Mladenović N. (eds) Variable Neighborhood Search. ICVNS 2019. Lecture Notes in Computer Science, vol 12010. Springer, Cham. https://doi.org/10.1007/978-3-030-44932-2_2
+- Sergio Gil-Borrás, Eduardo G. Pardo,  Antonio Alonso-Ayuso, Abraham Duarte (2020) Basic VNS for a Variant of the Online Order Batching Problem. In: Benmansour R., Sifaleras A., Mladenović N. (eds) Variable Neighborhood Search. ICVNS 2019. Lecture Notes in Computer Science, vol 12010. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-44932-2_2">https://doi.org/10.1007/978-3-030-44932-2_2</a>
 
 
 ## 2019
@@ -154,12 +154,12 @@ Motivation of Computer Science Engineering Students: Analysis and Recommendation
 - Diego Rojo, Jesús Mayor, José Jesús García Rueda, Laura Raya, Mike Potel:
 A Virtual Reality Training Application for Adults With Asperger's Syndrome. IEEE Computer Graphics and Applications 39(2): 104-111 (2019)
 
-- Sergio Gil-Borrás, Eduardo G. Pardo,  Antonio Alonso-Ayuso, Abraham Duarte (2019) New VNS Variants for the Online Order Batching Problem. In: Sifaleras A., Salhi S., Brimberg J. (eds) Variable Neighborhood Search. ICVNS 2018. Lecture Notes in Computer Science, vol 11328. Springer, Cham. https://doi.org/10.1007/978-3-030-15843-9_8
+- Sergio Gil-Borrás, Eduardo G. Pardo,  Antonio Alonso-Ayuso, Abraham Duarte (2019) New VNS Variants for the Online Order Batching Problem. In: Sifaleras A., Salhi S., Brimberg J. (eds) Variable Neighborhood Search. ICVNS 2018. Lecture Notes in Computer Science, vol 11328. Springer, Cham. <a href="https://doi.org/10.1007/978-3-030-15843-9_8">https://doi.org/10.1007/978-3-030-15843-9_8</a>
 
 ## 2018
 
 - Sergio Gil-Borrás, Jesus Bobadilla, Fernando Ortega, Bo Zhu (2018) VisualRS: Java framework for visualization of recommender systems
-. Knowledge-Based Systems 155 (2018) 66–70. https://doi.org/10.1016/j.knosys.2018.04.028
+. Knowledge-Based Systems 155 (2018) 66–70. <a href="https://doi.org/10.1016/j.knosys.2018.04.028">https://doi.org/10.1016/j.knosys.2018.04.028</a>
 
 
 <!--- 
