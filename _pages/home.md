@@ -58,7 +58,7 @@ INNOVATEC (**In**vestigación en I**n**geniería **O**perativa, **V**ideojuegos 
 
 - Software Engineering, Computer Graphics, Video Games, and Educational Technologies
 
-- Qualitative, Operational, and Metaheuristic Research
+- Qualitative Research, Operational Research, Heuristics & Metaheuristics
 
  
 

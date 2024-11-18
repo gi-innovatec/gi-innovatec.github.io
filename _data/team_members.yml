@@ -39,12 +39,13 @@
 
 - name: Sergio Gil
   photo: sergio.jpg
-  info:  PhD, Associate profesor (Titular Universidad), Dpto. Sistemas Informáticos (ETSISI)
+  info:  PhD, Assistant profesor (Ayudante Doctor), Dpto. Sistemas Informáticos (ETSISI)
   email: sergio.gil(at)upm.es
   number_educ: 5
   education1: PhD in Computer Science (UPM)
-  education2: BSc Computer Engineering (UPM)
-  education3: "Topics: "
+  education2: MSc in Cibersecurity (UC3M)
+  education3: BSc Computer Engineering (UPM)
+  education4: "Topics: Optimization problems, Operation Research, Heuristics & Metaheuristics, Supply Chain, Warehousing, Orden Picking, Order Batching."
 
 - name: Javier Alegre
   photo: javier.jpg
