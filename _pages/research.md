@@ -52,7 +52,7 @@ In the specialized area of metaheuristics, we design and implement cutting-edge 
 
 By integrating qualitative, operational, and metaheuristic research, we tackle complex challenges with a holistic perspective. This multidisciplinary approach allows us to develop transformative solutions that bridge the gap between theoretical research and industrial application, empowering organizations to achieve their goals while advancing the frontiers of applied science and engineering.
 
-<!--OLD **Qualitative, operational and metaheuristic research**
+<!--- OLD **Qualitative, operational and metaheuristic research**
 
 Our research in software engineering focuses on advancing qualitative methods, particularly grounded theory (GT), to develop deep insights into software practices and processes. To address this, we established our own GT process, drawing on established GT methodologies: Classic or Glaserian, Straussian, and Constructivist. We have published tutorials explaining how to calculate inter-coder agreement (IRA), offering structured guidance for researchers. Currently, we are focused on theory building, exploring processes to develop, operationalize, and test theories that contribute to the advancement of software engineering as a discipline.
 
@@ -61,7 +61,7 @@ Operations research focuses on process optimization and problem solving in indus
 Finally, in the area of metaheuristics, we develop and apply advanced optimization algorithms to solve complex search problems in various areas such as planning, network design and artificial intelligence. These methods, such as genetic algorithms, particle swarm optimization and other nature-inspired algorithms, allow us to find near-optimal solutions in large, multi-constrained search spaces.
 
 Our multidisciplinary approach in qualitative, operational and metaheuristic research drives innovative and effective solutions to complex challenges in different fields, supporting both industry and applied research.
--->
+
 Qualitative, Operational, and Metaheuristic Research
 
 Our research in software engineering is centered on advancing qualitative methodologies, with a particular focus on grounded theory (GT). We have developed a tailored GT process that integrates principles from established approaches, including Classic (Glaserian), Straussian, and Constructivist GT. This allows us to gain deep insights into software practices and processes. Additionally, we have created and published tutorials to guide researchers in calculating inter-coder agreement (IRA), offering clear and structured methods for ensuring reliability in qualitative studies. Our current focus is on theory building, with an emphasis on developing, operationalizing, and testing theories that propel software engineering forward as a robust academic and practical discipline.
@@ -73,7 +73,7 @@ In the specialized area of metaheuristics, we design and implement cutting-edge 
 Driving Innovation Through a Multidisciplinary Approach
 
 By integrating qualitative, operational, and metaheuristic research, we tackle complex challenges with a holistic perspective. This multidisciplinary approach allows us to develop transformative solutions that bridge the gap between theoretical research and industrial application, empowering organizations to achieve their goals while advancing the frontiers of applied science and engineering.
-
+-->
 
 <!---Nuestra investigación en esta área abarca el estudio profundo de métodos de optimización y toma de decisiones complejas en diversas áreas de aplicación. Nos enfocamos en desarrollar modelos y algoritmos que aborden problemas de gran escala y alta complejidad, donde las soluciones tradicionales pueden no ser efectivas.
 
