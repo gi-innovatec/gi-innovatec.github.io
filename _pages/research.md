@@ -40,7 +40,7 @@ In computer graphics, we explore both the creation of advanced visual environmen
 This multidisciplinary approach allows us to drive innovative applications that impact sectors such as entertainment, education, and software development through advanced digital learning and interaction methods.
 
 <!---**Investigación cualitativa, operativa y metaheurísticas** --->
-**Qualitative, operational and metaheuristic research**
+**Qualitative Research, Operational Research, Heuristics & Metaheuristics**
 
 Our research in software engineering is centered on advancing qualitative methodologies, with a particular focus on grounded theory (GT). We have developed a tailored GT process that integrates principles from established approaches, including Classic (Glaserian), Straussian, and Constructivist GT. This allows us to gain deep insights into software practices and processes. Additionally, we have created and published tutorials to guide researchers in calculating inter-coder agreement (IRA), offering clear and structured methods for ensuring reliability in qualitative studies. Our current focus is on theory building, with an emphasis on developing, operationalizing, and testing theories that propel software engineering forward as a robust academic and practical discipline.
 
