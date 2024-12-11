@@ -23,6 +23,15 @@ Are Remote Educational Escape Rooms Designed During the Pandemic Useful in a Pos
 - Aldo Gordillo, Daniel López-Fernández:
 Are Educational Escape Rooms More Effective Than Traditional Lectures for Teaching Software Engineering? A Randomized Controlled Trial. IEEE Trans. Educ. 67(5): 660-668 (2024)
 
+- Aldo Gordillo, Daniel López-Fernández, Jesús Mayor
+Examining and Comparing the Effectiveness of Virtual Reality Serious Games and LEGO Serious Play for Learning Scrum. Applied Sciences 14 (2), 830
+
+- Jesús Mayor, Laura Raya, Sofía Bayona, Alberto Sánchez
+A virtual reality perceptual study of multi-Technique redirected walking method. IEEE Transactions on Emerging Topics in Computing.
+
+- Jesús Mayor, Daniel López-Fernández, Raúl Lara-Cabrera, Fernando Ortega
+Virtual Reality Presence in Partially Non-Euclidean Environments. PRESENCE: Virtual and Augmented Reality, 1-24
+
 - Jesús Mayor, Pablo Calleja, Félix Fuentes-Hurtado:
 Long short-term memory prediction of user's locomotion in virtual reality. Virtual Real. 28(1): 65 (2024)
 
@@ -35,7 +44,8 @@ The time-window strategy in the online order batching problem. Int. J. Prod. Res
 
 ## 2023
 
-- Daniel López-Fernández , Jesús Mayor , Marta García-Pérez , Aldo Gordillo : Are Virtual Reality Serious Video Games More Effective Than Web Video Games? IEEE Computer Graphics and Applications 43(2): 32-42 (2023) JCR 2023: 1.7 (COMPUTER SCIENCE, SOFTWARE ENGINEERING Q3 73/131)
+- Daniel López-Fernández , Jesús Mayor , Marta García-Pérez , Aldo Gordillo : 
+Are Virtual Reality Serious Video Games More Effective Than Web Video Games? IEEE Computer Graphics and Applications 43(2): 32-42 (2023) JCR 2023: 1.7 (COMPUTER SCIENCE, SOFTWARE ENGINEERING Q3 73/131)
 
 - Daniel López-Fernández , Jesús Mayor , Jennifer Pérez , Aldo Gordillo :
 Learning and Motivational Impact of Using a Virtual Reality Serious Video Game to Learn Scrum. IEEE Trans. Games 15(3): 430-439 (2023) JCR 2023: 1.7 (COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE Q3 143/197)
