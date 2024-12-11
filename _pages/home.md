@@ -31,7 +31,7 @@ More details to follow.-->
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/diapo2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/diapo3.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/diapo3.png" alt="Slide 3" />
         </div>
         <!---
         <div class="item">
